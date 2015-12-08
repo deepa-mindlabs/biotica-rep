@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+{
+	font-family: 'Open Sans', sans-serif;
+		Normal 400
+		Bold 700
+		Extra-Bold 800
+		Extra-Bold 800 Italic
+		
+	font-family: 'Roboto', sans-serif;
+		Thin 100
+		Light 300
+		Normal 400
+		Medium 500
+		Bold 700
+		
+	font-family: 'Oswald', sans-serif;
+		Normal 400	
+}
